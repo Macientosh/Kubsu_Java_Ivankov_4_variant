@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/job_1/1_independentWork/1_independentWork.iml" filepath="$PROJECT_DIR$/job_1/1_independentWork/1_independentWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_1/1_tasksByVariant/1_tasksByVariant.iml" filepath="$PROJECT_DIR$/job_1/1_tasksByVariant/1_tasksByVariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_2/2_independentWork/2_independentWork.iml" filepath="$PROJECT_DIR$/job_2/2_independentWork/2_independentWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_2/2_tasksByVariant/2_tasksByVariant.iml" filepath="$PROJECT_DIR$/job_2/2_tasksByVariant/2_tasksByVariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_3/3_taskByVariant/3_taskByVariant.iml" filepath="$PROJECT_DIR$/job_3/3_taskByVariant/3_taskByVariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_4/4_taskByVariant/4_taskByVariant.iml" filepath="$PROJECT_DIR$/job_4/4_taskByVariant/4_taskByVariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kubsu_Java_Ivankov_4_variant.iml" filepath="$PROJECT_DIR$/Kubsu_Java_Ivankov_4_variant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_4/4_taskByVariant/complexNumber/complexNumber.iml" filepath="$PROJECT_DIR$/job_4/4_taskByVariant/complexNumber/complexNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_4/4_taskByVariant/geometry/geometry.iml" filepath="$PROJECT_DIR$/job_4/4_taskByVariant/geometry/geometry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_4/4_taskByVariant/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/job_4/4_taskByVariant/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_1/job_1.iml" filepath="$PROJECT_DIR$/job_1/job_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_2/job_2.iml" filepath="$PROJECT_DIR$/job_2/job_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_3/job_3.iml" filepath="$PROJECT_DIR$/job_3/job_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_4/job_4.iml" filepath="$PROJECT_DIR$/job_4/job_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_4/4_taskByVariant/stereometry/stereometry.iml" filepath="$PROJECT_DIR$/job_4/4_taskByVariant/stereometry/stereometry.iml" />
+    </modules>
+  </component>
+</project>
